@@ -1,21 +1,19 @@
+![Yazid Putra Muhammad Riziq](img/github-banner.jpg)
+
 <div align="center">
 
-Hai, I am Yazid Putra Muhammad Riziq
-<picture>
+#### Hai, I am Yazid <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25"> </picture>
 
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
-</picture>
-<hr>
+🙏 Welcome to my Github profile!
+I am a Web Developer 🚀 from Indonesia
 
-![Yazid Putra Muhammad Riziq](img/github-banner.jpg)
-<hr>
-Welcome to my Github profile!
- <br>
-I am a Web Developer 🚀 from Indonesia <br>
+![https://www.instagram.com/yzdptr_rzq?igsh=MWE0djI1anhxeHpqdg==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/yazid-riziq](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![https://www.instagram.com/yzdptr_rzq?igsh=MWE0djI1anhxeHpqdg==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<div align="start">
 
-![www.linkedin.com/in/yazid-riziq](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+#### <span><picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.gif" alt="🤔" width="25" height="25"></picture></span> What I'm up to
+- 🔭 **Currently working on:** Developing a WhatsApp-integrated HRIS platform to automate attendance and leave management for micro-sized businesses (<10 employees). This system is currently in active development for implementation at our first client in the semi-cluster housing development sector.
+- 🌱 **Currently focusing on:** Exploring and refining modern engineering workflows using CLI-based Autonomous AI Agents in the Debian WSL environment. My main focus right now is designing the system architecture and leveraging the DeepSeek API to accelerate boilerplate coding efficiency.
+- 👯 **Community:** Actively participate in leading the IT community, with a primary focus on organizational management, team collaboration, and documentation standardization to ensure the sustainability of the community ecosystem.
+- ⚡ **Fun fact:** With my current workflow, I sometimes feel more like an 'AI Foreman' than a conventional programmer.
 
-</div>
