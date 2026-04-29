@@ -25,10 +25,8 @@ I am a Web Developer 🚀 from Indonesia
   </a>
 </p>
 
-## By the Numbers
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YazidRiziq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YazidRiziq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"/>
-</div>
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="27" height="27"></picture> By the Numbers
+![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazidRiziq&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YazidRiziq&layout=compact&theme=github_dark)
 
 
