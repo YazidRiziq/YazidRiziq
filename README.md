@@ -17,3 +17,12 @@ I am a Web Developer 🚀 from Indonesia
 - 👯 **Community:** Actively participate in leading the IT community, with a primary focus on organizational management, team collaboration, and documentation standardization to ensure the sustainability of the community ecosystem.
 - ⚡ **Fun fact:** With my current workflow, I sometimes feel more like an 'AI Foreman' than a conventional programmer.
 
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="25" height="25"></picture> Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,debian,docker,vscode,figma,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,javascript,tailwind,laravel,php,spring,java,nestjs,ts,prisma,supabase,postgres,mysql" />
+  </a>
+</p>
+
+
