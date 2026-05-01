@@ -29,4 +29,8 @@ I am a Web Developer 🚀 from Indonesia
 ![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazidRiziq&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YazidRiziq&layout=compact&theme=github_dark)
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f422/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f422/512.gif" alt="🐢" width="32" height="32"></picture> Playground
-<img src="https://raw.githubusercontent.com/YazidRiziq/YazidRiziq/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YazidRiziq/YazidRiziq/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YazidRiziq/YazidRiziq/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YazidRiziq/YazidRiziq/output/pacman-contribution-graph.svg">
+</picture>
