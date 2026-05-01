@@ -26,7 +26,7 @@ I am a Web Developer 🚀 from Indonesia
 </p>
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="27" height="27"></picture> By the Numbers
-![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazidRiziq&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YazidRiziq&layout=compact&theme=github_dark)
+![Yazid's GitHub stats](https://github-readme-stats-one-pi-38.vercel.app/api?username=YazidRiziq&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats-one-pi-38.vercel.app/api/top-langs/?username=YazidRiziq&layout=compact&theme=github_dark)
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f422/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f422/512.gif" alt="🐢" width="32" height="32"></picture> Playground
 <picture>
