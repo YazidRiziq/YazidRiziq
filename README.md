@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YazidRiziq/YazidRiziq/main/img/github-banner.jpg" alt="Yazid Putra Muhammad Riziq" width="100%">
-</div>
+![Yazid Putra Muhammad Riziq](github-banner.jpg)
 
 <div align="center">
 
